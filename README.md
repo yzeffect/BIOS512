@@ -1,2 +1,5 @@
 # BIOS512
-This is Valen's BIOS 512 course folder at UNC Chapel Hill, Gillings School of Public Health. 
+- Valen Zhang
+- PID: 730444332 
+- Fall 2022
+- UNC Chapel Hill, Gillings School of Public Health
